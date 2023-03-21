@@ -1,0 +1,35 @@
+{
+  "name": "TillusorySDK",
+  "version": "50001",
+  "summary": "A short description of TillusorySDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TillusoryTech/TillusorySDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tillusory": "tillusorytech@126.com"
+  },
+  "source": {
+    "git": "https://github.com/TillusoryTech/TillusorySDK.git",
+    "tag": "50001"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TillusorySDK/Classes/**/*",
+  "resources": [
+    "TillusorySDK/Assets/**/*.{bundle,json,png}"
+  ],
+  "vendored_frameworks": "TillusorySDK/**/*.{framework}",
+  "static_framework": true,
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "SSZipArchive": [
+
+    ]
+  }
+}

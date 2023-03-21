@@ -1,0 +1,50 @@
+{
+  "menu": [
+      {
+          "name": "无",
+          "menuTag": 0,
+          "selected": true,
+          "normalThumb":"hahajing_yuantu_normal_black.png",
+          "normalwhiteThumb":"hahajing_yuantu_normal_white.png",
+          "selectedThumb":"hahajing_yuantu_selected.png",
+          "thumb":"",
+          
+      },
+      {
+          "name": "外星人",
+          "menuTag": 1,
+          "selected": false,
+          "normalThumb":"alien_normal_black.png",
+          "normalwhiteThumb":"alien_normal_white.png",
+          "selectedThumb":"alien_selected.png",
+          "thumb":"",
+      },
+      {
+          "name": "梨梨脸",
+          "menuTag": 2,
+          "selected": false,
+          "normalThumb":"pearface_normal_black.png",
+          "normalwhiteThumb":"pearface_normal_white.png",
+          "selectedThumb":"pearface_selected.png",
+          "thumb":"",
+      },
+      {
+          "name": "瘦瘦脸",
+          "menuTag": 3,
+          "selected": false,
+          "normalThumb":"thinface_normal_black.png",
+          "normalwhiteThumb":"thinface_normal_white.png",
+          "selectedThumb":"thinface_selected.png",
+          "thumb":"",
+      },
+      {
+          "name": "方方脸",
+          "menuTag": 4,
+          "selected": false,
+          "normalThumb":"squareface_normal_black.png",
+          "normalwhiteThumb":"squareface_normal_white.png",
+          "selectedThumb":"squareface_selected.png",
+          "thumb":"",
+      },
+      ]
+}

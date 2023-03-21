@@ -1,0 +1,27 @@
+PODS:
+  - Masonry (1.1.0)
+  - SSZipArchive (2.4.3)
+  - TillusorySDK (50001):
+    - Masonry
+    - SSZipArchive
+
+DEPENDENCIES:
+  - TillusorySDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - SSZipArchive
+
+EXTERNAL SOURCES:
+  TillusorySDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
+  TillusorySDK: d44db355850f40f320be85a9f2b5693a50f40e5d
+
+PODFILE CHECKSUM: b056d97a3f43cf60d5196b1da70a6e864ba4b114
+
+COCOAPODS: 1.11.3

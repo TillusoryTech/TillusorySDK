@@ -1,0 +1,53 @@
+{
+    
+    "menu": [
+        
+        {
+            "name": "经典",
+            "menuTag": 0,
+            "selected": true,
+            "normalThumb":"lianxing_jingdian_normal_black.png",
+            "normalwhiteThumb":"lianxing_jingdian_normal_white.png",
+            "selectedThumb":"lianxing_jingdian_selected.png",
+            "thumb":"",
+        },
+        {
+            "name": "方脸专用",
+            "menuTag": 1,
+            "selected": false,
+            "normalThumb":"lianxing_fanglian_normal_black.png",
+            "normalwhiteThumb":"lianxing_fanglian_normal_white.png",
+            "selectedThumb":"lianxing_fanglian_selected.png",
+            "thumb":"",
+        },
+        {
+            "name": "长脸专用",
+            "menuTag": 2,
+            "selected": false,
+            "normalThumb":"lianxing_changlian_normal_black.png",
+            "normalwhiteThumb":"lianxing_changlian_normal_white.png",
+            "selectedThumb":"lianxing_changlian_selected.png",
+            "thumb":"",
+        },
+        {
+            "name": "圆脸专用",
+            "menuTag": 3,
+            "selected": false,
+            "normalThumb":"lianxing_yuanlian_normal_black.png",
+            "normalwhiteThumb":"lianxing_yuanlian_normal_white.png",
+            "selectedThumb":"lianxing_yuanlian_selected.png",
+            "thumb":"",
+        },
+        {
+            "name": "瘦脸专用",
+            "menuTag": 4,
+            "selected": false,
+            "normalThumb":"lianxing_shoulian_normal_black.png",
+            "normalwhiteThumb":"lianxing_shoulian_normal_white.png",
+            "selectedThumb":"lianxing_shoulian_selected.png",
+            "thumb":"",
+        },
+        
+    ]
+    
+}

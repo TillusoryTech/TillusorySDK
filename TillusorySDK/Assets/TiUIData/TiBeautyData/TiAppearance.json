@@ -1,0 +1,258 @@
+{
+    
+    "menu": [
+        {
+            "name": "大眼",
+            "menuTag": 0,
+            "selected": true,
+            "normalThumb":"bigeyes_normal_black.png",
+            "normalwhiteThumb":"bigeyes_normal_white.png",
+            "selectedThumb":"bigeyes_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "瘦脸",
+            "menuTag": 1,
+            "selected": false,
+            "normalThumb":"shoulian_normal_black.png",
+            "normalwhiteThumb":"shoulian_normal_white.png",
+            "selectedThumb":"shoulian_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "微整形",
+            "menuTag": -1,
+            "selected": false,
+            "normalThumb":"",
+            "normalwhiteThumb":"",
+            "selectedThumb":"",
+            "thumb":""
+        },
+        {
+            "name": "窄脸",
+            "menuTag": 2,
+            "selected": false,
+            "normalThumb":"zhailian_normal_black.png",
+            "normalwhiteThumb":"zhailian_normal_white.png",
+            "selectedThumb":"zhailian_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "下巴",
+            "menuTag": 3,
+            "selected": false,
+            "normalThumb":"chin_normal_black.png",
+            "normalwhiteThumb":"chin_normal_white.png",
+            "selectedThumb":"chin_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "额头",
+            "menuTag": 4,
+            "selected": false,
+            "normalThumb":"forehead_normal_black.png",
+            "normalwhiteThumb":"forehead_normal_white.png",
+            "selectedThumb":"forehead_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "瘦颧骨",
+            "menuTag": 5,
+            "selected": false,
+            "normalThumb":"quangu_normal_black.png",
+            "normalwhiteThumb":"quangu_normal_white.png",
+            "selectedThumb":"quangu_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "瘦下颌",
+            "menuTag": 6,
+            "selected": false,
+            "normalThumb":"xiahe_normal_black.png",
+            "normalwhiteThumb":"xiahe_normal_white.png",
+            "selectedThumb":"xiahe_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "削下巴",
+            "menuTag": 7,
+            "selected": false,
+            "normalThumb":"xiaoxiaba_normal_black.png",
+            "normalwhiteThumb":"xiaoxiaba_normal_white.png",
+            "selectedThumb":"xiaoxiaba_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "point",
+            "menuTag": -1,
+            "selected": false,
+            "normalThumb":"",
+            "normalwhiteThumb":"",
+            "selectedThumb":"",
+            "thumb":""
+        },
+        {
+            "name": "内眼角",
+            "menuTag": 8,
+            "selected": false,
+            "normalThumb":"neiyanjiao_normal_black.png",
+            "normalwhiteThumb":"neiyanjiao_normal_white.png",
+            "selectedThumb":"neiyanjiao_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "外眼尾",
+            "menuTag": 9,
+            "selected": false,
+            "normalThumb":"waiyanwei_normal_black.png",
+            "normalwhiteThumb":"waiyanwei_normal_white.png",
+            "selectedThumb":"waiyanwei_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "眼间距",
+            "menuTag": 10,
+            "selected": false,
+            "normalThumb":"yanju_normal_black.png",
+            "normalwhiteThumb":"yanju_normal_white.png",
+            "selectedThumb":"yanju_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "倾斜",
+            "menuTag": 11,
+            "selected": false,
+            "normalThumb":"yanjiao_normal_black.png",
+            "normalwhiteThumb":"yanjiao_normal_white.png",
+            "selectedThumb":"yanjiao_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "point",
+            "menuTag": -1,
+            "selected": false,
+            "normalThumb":"",
+            "normalwhiteThumb":"",
+            "selectedThumb":"",
+            "thumb":""
+        },
+        {
+            "name": "瘦鼻",
+            "menuTag": 12,
+            "selected": false,
+            "normalThumb":"shoubi_normal_black.png",
+            "normalwhiteThumb":"shoubi_normal_white.png",
+            "selectedThumb":"shoubi_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "长鼻",
+            "menuTag": 13,
+            "selected": false,
+            "normalThumb":"changbi_normal_black.png",
+            "normalwhiteThumb":"changbi_normal_white.png",
+            "selectedThumb":"changbi_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "point",
+            "menuTag": -1,
+            "selected": false,
+            "normalThumb":"",
+            "normalwhiteThumb":"",
+            "selectedThumb":"",
+            "thumb":""
+        },
+        {
+            "name": "嘴型",
+            "menuTag": 14,
+            "selected": false,
+            "normalThumb":"zuixing_normal_black.png",
+            "normalwhiteThumb":"zuixing_normal_white.png",
+            "selectedThumb":"zuixing_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "嘴高低",
+            "menuTag": 15,
+            "selected": false,
+            "normalThumb":"zuigaodi_normal_black.png",
+            "normalwhiteThumb":"zuigaodi_normal_white.png",
+            "selectedThumb":"zuigaodi_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "唇厚薄",
+            "menuTag": 16,
+            "selected": false,
+            "normalThumb":"chunhou_normal_black.png",
+            "normalwhiteThumb":"chunhou_normal_white.png",
+            "selectedThumb":"chunhou_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "扬嘴角",
+            "menuTag": 17,
+            "selected": false,
+            "normalThumb":"zuijiao_normal_black.png",
+            "normalwhiteThumb":"zuijiao_normal_white.png",
+            "selectedThumb":"zuijiao_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "point",
+            "menuTag": -1,
+            "selected": false,
+            "normalThumb":"",
+            "normalwhiteThumb":"",
+            "selectedThumb":"",
+            "thumb":""
+        },
+        {
+            "name": "眉高低",
+            "menuTag": 18,
+            "selected": false,
+            "normalThumb":"meigao_normal_black.png",
+            "normalwhiteThumb":"meigao_normal_white.png",
+            "selectedThumb":"meigao_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "眉长短",
+            "menuTag": 19,
+            "selected": false,
+            "normalThumb":"meichang_normal_black.png",
+            "normalwhiteThumb":"meichang_normal_white.png",
+            "selectedThumb":"meichang_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "眉间距",
+            "menuTag": 20,
+            "selected": false,
+            "normalThumb":"meijianju_normal_black.png",
+            "normalwhiteThumb":"meijianju_normal_white.png",
+            "selectedThumb":"meijianju_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "眉粗细",
+            "menuTag": 21,
+            "selected": false,
+            "normalThumb":"meicuxi_normal_black.png",
+            "normalwhiteThumb":"meicuxi_normal_white.png",
+            "selectedThumb":"meicuxi_selected.png",
+            "thumb":""
+        },
+        {
+            "name": "提眉峰",
+            "menuTag": 22,
+            "selected": false,
+            "normalThumb":"meiwei_normal_black.png",
+            "normalwhiteThumb":"meiwei_normal_white.png",
+            "selectedThumb":"meiwei_selected.png",
+            "thumb":""
+        }
+        
+    ]
+}

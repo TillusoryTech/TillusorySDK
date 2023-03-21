@@ -1,0 +1,120 @@
+{
+  "menu": [
+      
+     {
+          "name": "原图",
+          "menuTag": 0,
+          "selected": true,
+          "thumb":"ti_yuantu_icon.png",
+     },
+     {
+         "name": "炫彩抖动",
+         "menuTag": 1,
+         "selected": false,
+         "thumb":"ti_xcdd_icon.png",
+     },
+     {
+         "name": "轻彩抖动",
+         "menuTag": 2,
+         "selected": false,
+         "thumb":"ti_qcdd_icon.png",
+     },
+     {
+         "name": "幻觉残影",
+         "menuTag": 3,
+         "selected": false,
+         "thumb":"ti_hjcy_icon.png",
+     },
+     {
+         "name": "霓虹灯",
+         "menuTag": 4,
+         "selected": false,
+         "thumb":"ti_nhd_icon.png",
+     },
+     {
+         "name": "反光镜",
+         "menuTag": 5,
+         "selected": false,
+         "thumb":"ti_fgj_icon.png",
+     },
+     {
+         "name": "虚拟镜像",
+         "menuTag": 6,
+         "selected": false,
+         "thumb":"ti_xnjx_icon.png",
+     },
+     {
+         "name": "四屏镜像",
+         "menuTag": 7,
+         "selected": false,
+         "thumb":"ti_spjx_icon.png",
+     },
+     {
+         "name": "边框模糊",
+         "menuTag": 8,
+         "selected": false,
+         "thumb":"ti_bkmh_icon.png",
+     },
+     {
+         "name": "模糊分屏",
+         "menuTag": 9,
+         "selected": false,
+         "thumb":"ti_mhfp_icon.png",
+     },
+     {
+         "name": "四分屏",
+         "menuTag": 10,
+         "selected": false,
+         "thumb":"ti_sfp_icon.png",
+     },
+     {
+         "name": "九宫格",
+         "menuTag": 11,
+         "selected": false,
+         "thumb":"ti_jgg_icon.png",
+     },
+     {
+         "name": "灵魂出窍",
+         "menuTag": 12,
+         "selected": false,
+         "thumb":"ti_lhcq_icon.png",
+     },
+     {
+         "name": "头晕目眩",
+         "menuTag": 13,
+         "selected": false,
+         "thumb":"ti_tymx_icon.png",
+     },
+     {
+         "name": "动感分屏",
+         "menuTag": 14,
+         "selected": false,
+         "thumb":"ti_dgfp_icon.png",
+     },
+     {
+         "name": "黑白电影",
+         "menuTag": 15,
+         "selected": false,
+         "thumb":"ti_hbdy_icon.png",
+     },
+     {
+         "name": "魔法镜面",
+         "menuTag": 16,
+         "selected": false,
+         "thumb":"ti_mfjm_icon.png",
+     },
+     {
+         "name": "瞬间石化",
+         "menuTag": 17,
+         "selected": false,
+         "thumb":"ti_sjsh_icon.png",
+     },
+     {
+         "name": "毛玻璃",
+         "menuTag": 18,
+         "selected": false,
+         "thumb":"ti_maoboli_icon.png",
+     },
+     
+  ]
+}

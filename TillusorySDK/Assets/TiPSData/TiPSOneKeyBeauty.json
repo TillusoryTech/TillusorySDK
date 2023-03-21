@@ -1,0 +1,72 @@
+{
+    "menu": [
+        
+        {
+            "name": "标准",
+            "menuTag": 0,
+            "selected": false,
+            "thumb":"ti_biaozhun_ps.png",
+        },
+        {
+            "name": "精致",
+            "menuTag": 1,
+            "selected": false,
+            "thumb":"ti_jingzhi_ps.png",
+        },
+        {
+            "name": "可爱",
+            "menuTag": 2,
+            "selected": false,
+            "thumb":"ti_keai_ps.png",
+        },
+        {
+            "name": "网红",
+            "menuTag": 3,
+            "selected": false,
+            "thumb":"ti_wanghong_ps.png",
+        },
+        {
+            "name": "自然",
+            "menuTag": 4,
+            "selected": false,
+            "thumb":"ti_ziran_ps.png",
+        },
+        {
+            "name": "萝莉",
+            "menuTag": 5,
+            "selected": false,
+            "thumb":"ti_luoli_ps.png",
+        },
+        {
+            "name": "优雅",
+            "menuTag": 6,
+            "selected": false,
+            "thumb":"ti_youya_ps.png",
+        },
+        {
+            "name": "初恋",
+            "menuTag": 7,
+            "selected": false,
+            "thumb":"ti_chulian_ps.png",
+        },
+        {
+            "name": "女神",
+            "menuTag": 8,
+            "selected": false,
+            "thumb":"ti_nvshen_ps.png",
+        },
+        {
+            "name": "高级",
+            "menuTag": 9,
+            "selected": false,
+            "thumb":"ti_gaoji_ps.png",
+        },
+        {
+            "name": "低端机适配",
+            "menuTag": 10,
+            "selected": false,
+            "thumb":"ti_shipei_ps.png",
+        },
+    ]
+    
+}

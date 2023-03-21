@@ -1,0 +1,230 @@
+{
+    
+    "menu": [
+        {
+            "name": "大眼",
+            "menuTag": 0,
+            "selected": true,
+            "normalThumb":"bigeyes_normal_ps.png",
+            "selectedThumb":"bigeyes_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "瘦脸",
+            "menuTag": 1,
+            "selected": false,
+            "normalThumb":"shoulian_normal_ps.png",
+            "selectedThumb":"shoulian_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "微整形",
+            "menuTag": -1,
+            "selected": false,
+            "normalThumb":"",
+            "selectedThumb":"",
+            "thumb":""
+        },
+        {
+            "name": "窄脸",
+            "menuTag": 2,
+            "selected": false,
+            "normalThumb":"zhailian_normal_ps.png",
+            "selectedThumb":"zhailian_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "下巴",
+            "menuTag": 3,
+            "selected": false,
+            "normalThumb":"chin_normal_ps.png",
+            "selectedThumb":"chin_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "额头",
+            "menuTag": 4,
+            "selected": false,
+            "normalThumb":"forehead_normal_ps.png",
+            "selectedThumb":"forehead_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "瘦颧骨",
+            "menuTag": 5,
+            "selected": false,
+            "normalThumb":"quangu_normal_ps.png",
+            "selectedThumb":"quangu_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "瘦下颌",
+            "menuTag": 6,
+            "selected": false,
+            "normalThumb":"xiahe_normal_ps.png",
+            "selectedThumb":"xiahe_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "削下巴",
+            "menuTag": 7,
+            "selected": false,
+            "normalThumb":"xiaoxiaba_normal_ps.png",
+            "selectedThumb":"xiaoxiaba_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "point",
+            "menuTag": -1,
+            "selected": false,
+            "normalThumb":"",
+            "selectedThumb":"",
+            "thumb":""
+        },
+        {
+            "name": "内眼角",
+            "menuTag": 8,
+            "selected": false,
+            "normalThumb":"neiyanjiao_normal_ps.png",
+            "selectedThumb":"neiyanjiao_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "外眼尾",
+            "menuTag": 9,
+            "selected": false,
+            "normalThumb":"waiyanwei_normal_ps.png",
+            "selectedThumb":"waiyanwei_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "眼间距",
+            "menuTag": 10,
+            "selected": false,
+            "normalThumb":"yanju_normal_ps.png",
+            "selectedThumb":"yanju_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "倾斜",
+            "menuTag": 11,
+            "selected": false,
+            "normalThumb":"yanjiao_normal_ps.png",
+            "selectedThumb":"yanjiao_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "point",
+            "menuTag": -1,
+            "selected": false,
+            "normalThumb":"",
+            "selectedThumb":"",
+            "thumb":""
+        },
+        {
+            "name": "瘦鼻",
+            "menuTag": 12,
+            "selected": false,
+            "normalThumb":"shoubi_normal_ps.png",
+            "selectedThumb":"shoubi_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "长鼻",
+            "menuTag": 13,
+            "selected": false,
+            "normalThumb":"changbi_normal_ps.png",
+            "selectedThumb":"changbi_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "point",
+            "menuTag": -1,
+            "selected": false,
+            "normalThumb":"",
+            "selectedThumb":"",
+            "thumb":""
+        },
+        {
+            "name": "嘴型",
+            "menuTag": 14,
+            "selected": false,
+            "normalThumb":"zuixing_normal_ps.png",
+            "selectedThumb":"zuixing_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "嘴高低",
+            "menuTag": 15,
+            "selected": false,
+            "normalThumb":"zuigaodi_normal_ps.png",
+            "selectedThumb":"zuigaodi_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "唇厚薄",
+            "menuTag": 16,
+            "selected": false,
+            "normalThumb":"chunhou_normal_ps.png",
+            "selectedThumb":"chunhou_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "扬嘴角",
+            "menuTag": 17,
+            "selected": false,
+            "normalThumb":"zuijiao_normal_ps.png",
+            "selectedThumb":"zuijiao_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "point",
+            "menuTag": -1,
+            "selected": false,
+            "normalThumb":"",
+            "selectedThumb":"",
+            "thumb":""
+        },
+        {
+            "name": "眉高低",
+            "menuTag": 18,
+            "selected": false,
+            "normalThumb":"meigao_normal_ps.png",
+            "selectedThumb":"meigao_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "眉长短",
+            "menuTag": 19,
+            "selected": false,
+            "normalThumb":"meichang_normal_ps.png",
+            "selectedThumb":"meichang_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "眉间距",
+            "menuTag": 20,
+            "selected": false,
+            "normalThumb":"meijianju_normal_ps.png",
+            "selectedThumb":"meijianju_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "眉粗细",
+            "menuTag": 21,
+            "selected": false,
+            "normalThumb":"meicuxi_normal_ps.png",
+            "selectedThumb":"meicuxi_selected_ps.png",
+            "thumb":""
+        },
+        {
+            "name": "提眉峰",
+            "menuTag": 22,
+            "selected": false,
+            "normalThumb":"meiwei_normal_ps.png",
+            "selectedThumb":"meiwei_selected_ps.png",
+            "thumb":""
+        }
+        
+    ]
+}

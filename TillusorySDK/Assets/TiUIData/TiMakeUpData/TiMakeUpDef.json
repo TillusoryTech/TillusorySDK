@@ -1,0 +1,42 @@
+{
+    "menu":
+    [
+        {
+            "name": "腮红",
+            "menuTag": 1,
+            "selected": false,
+            "normalThumb":"blusher_normal_black.png",
+            "normalwhiteThumb":"blusher_normal_white.png",
+            "selectedThumb":"blusher_selected.png",
+            "thumb":"",
+        },
+        {
+            "name": "眉毛",
+            "menuTag": 2,
+            "selected": false,
+            "normalThumb":"eyebrow_normal_black.png",
+            "normalwhiteThumb":"eyebrow_normal_white.png",
+            "selectedThumb":"eyebrow_selected.png",
+            "thumb":"",
+        },
+        {
+            "name": "眼影",
+            "menuTag": 3,
+            "selected": false,
+            "normalThumb":"eyeshadow_normal_black.png",
+            "normalwhiteThumb":"eyeshadow_normal_white.png",
+            "selectedThumb":"eyeshadow_selected.png",
+            "thumb":"",
+        },
+        {
+            "name": "唇彩",
+            "menuTag": 4,
+            "selected": false,
+            "normalThumb":"chuncai_normal_black.png",
+            "normalwhiteThumb":"chuncai_normal_white.png",
+            "selectedThumb":"chuncai_selected.png",
+            "thumb":"",
+        },
+    ]
+  
+}

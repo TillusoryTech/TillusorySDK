@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-TiSDKDemo/Pods-TiSDKDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/SSZipArchive/SSZipArchive.framework
+${PODS_ROOT}/../../TillusorySDK/TiSDK.framework

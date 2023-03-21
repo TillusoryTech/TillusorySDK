@@ -1,0 +1,54 @@
+{
+    "menu": [
+        {
+            "name": "一键美颜",
+            "menuTag":0,
+            "selected": true,
+            "totalSwitch": true,
+            "subMenu": ""
+        },
+        {
+            "name": "美颜",
+            "menuTag":1,
+            "selected": false,
+            "totalSwitch": true,
+            "subMenu": ""
+        },
+        {
+            "name": "脸型",
+            "menuTag":2,
+            "selected": false,
+            "totalSwitch": true,
+            "subMenu": ""
+        },
+        {
+            "name": "美型",
+            "menuTag":3,
+            "selected": false,
+            "totalSwitch": true,
+            "subMenu": ""
+        },
+        {
+            "name": "滤镜",
+            "menuTag":4,
+            "selected": true,
+            "totalSwitch": true,
+            "subMenu": ""
+        },
+        {
+            "name": "长腿",
+            "menuTag":5,
+            "selected": true,
+            "totalSwitch": true,
+            "subMenu": ""
+        },
+        {
+            "name": "瘦身",
+            "menuTag":6,
+            "selected": false,
+            "totalSwitch": true,
+            "subMenu": ""
+        },
+    ]
+    
+}

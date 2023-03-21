@@ -1,0 +1,58 @@
+{
+  "portraits" : [
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 1,
+      "thumb" : "portrait_niunian_icon.png",
+      "dir" : "niunian",
+      "name" : "niunian"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 2,
+      "thumb" : "portrait_nihong_icon.png",
+      "dir" : "nihong",
+      "name" : "nihong"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 3,
+      "thumb" : "portrait_ganfanren_icon.png",
+      "dir" : "ganfanren",
+      "name" : "ganfanren"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 4,
+      "thumb" : "portrait_xiannv_icon.png",
+      "dir" : "xiannv",
+      "name" : "xiannv"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 5,
+      "thumb" : "portrait_tuzi_icon.png",
+      "dir" : "tuzi",
+      "name" : "tuzi"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 6,
+      "thumb" : "portrait_youlechang_icon.png",
+      "dir" : "youlechang",
+      "name" : "youlechang"
+    }
+  ]
+}

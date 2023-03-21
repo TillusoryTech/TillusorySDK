@@ -1,0 +1,131 @@
+{
+  "menu": [
+      {
+          "name": "美颜",
+          "menuTag":0,
+          "selected": false,
+          "totalSwitch": true,
+          "subMenu": ""
+      },
+      {
+          "name": "美型",
+          "menuTag":1,
+          "selected": false,
+          "totalSwitch": true,
+          "subMenu": ""
+      },
+      {
+          "name": "贴纸",
+          "menuTag":2,
+          "selected": true,
+          "totalSwitch": true,
+          "subMenu": ""
+      },
+      {
+          "name": "礼物",
+          "menuTag":3,
+          "selected": false,
+          "totalSwitch": true,
+          "subMenu": ""
+       },
+       {
+           "name": "滤镜",
+           "menuTag":4,
+           "selected": true,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "抖动",
+           "menuTag":5,
+           "selected": false,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "哈哈镜",
+           "menuTag":6,
+           "selected": false,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "水印",
+           "menuTag":7,
+           "selected": false,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "面具",
+           "menuTag":8,
+           "selected": false,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "绿幕抠图",
+           "menuTag":9,
+           "selected": false,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "一键美颜",
+           "menuTag":10,
+           "selected": true,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "互动",
+           "menuTag":11,
+           "selected": false,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "美妆",
+           "menuTag":12,
+           "selected": true,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "脸型",
+           "menuTag":13,
+           "selected": false,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "人像抠图",
+           "menuTag":14,
+           "selected": false,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "美发",
+           "menuTag":15,
+           "selected": false,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "手势识别",
+           "menuTag":16,
+           "selected": false,
+           "totalSwitch": true,
+           "subMenu": ""
+       },
+       {
+           "name": "",
+           "menuTag":17,
+           "selected": false,
+           "totalSwitch": false,
+           "subMenu": ""
+       },
+  ]
+  
+}

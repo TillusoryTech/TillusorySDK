@@ -1,0 +1,126 @@
+{
+  "menu": [
+     {
+         "name": "原图",
+         "menuTag": 0,
+         "selected": true,
+         "thumb":"icon_ranfa_yuantu.png",
+     },
+     {
+         "name": "神秘紫",
+         "menuTag": 1,
+         "selected": false,
+         "thumb":"icon_ranfa_shenmizi.png",
+     },
+     {
+         "name": "巧克力",
+         "menuTag": 2,
+         "selected": false,
+         "thumb":"icon_ranfa_qiaokeli.png",
+     },
+     {
+         "name": "青木棕",
+         "menuTag": 3,
+         "selected": false,
+         "thumb":"icon_ranfa_qingmuzong.png",
+     },
+     {
+         "name": "焦糖棕",
+         "menuTag": 4,
+         "selected": false,
+         "thumb":"icon_ranfa_jiaotangzong.png",
+     },
+     {
+         "name": "蜂蜜醇棕",
+         "menuTag": 5,
+         "selected": false,
+         "thumb":"icon_ranfa_fengmizong.png",
+     },
+     {
+         "name": "浅金棕",
+         "menuTag": 6,
+         "selected": false,
+         "thumb":"icon_ranfa_qianjinzong.png",
+     },
+     {
+         "name": "玫瑰金",
+         "menuTag": 7,
+         "selected": false,
+         "thumb":"icon_ranfa_meiguijin.png",
+     },
+     {
+         "name": "亚麻白金",
+         "menuTag": 8,
+         "selected": false,
+         "thumb":"icon_ranfa_yamabaijin.png",
+     },
+     {
+         "name": "落日橘",
+         "menuTag": 9,
+         "selected": false,
+         "thumb":"icon_ranfa_luoriju.png",
+     },
+     {
+         "name": "亚麻浅橘",
+         "menuTag": 10,
+         "selected": false,
+         "thumb":"icon_ranfa_yamajianju.png",
+     },
+     {
+         "name": "复古玫瑰",
+         "menuTag": 11,
+         "selected": false,
+         "thumb":"icon_ranfa_fugumeigui.png",
+     },
+     {
+         "name": "深玫瑰",
+         "menuTag": 12,
+         "selected": false,
+         "thumb":"icon_ranfa_shenmeigui.png",
+     },
+     {
+         "name": "烟灰雾紫",
+         "menuTag": 13,
+         "selected": false,
+         "thumb":"icon_ranfa_yanhuiwuzi.png",
+     },
+     {
+         "name": "粉红甜棕",
+         "menuTag": 14,
+         "selected": false,
+         "thumb":"icon_ranfa_fenmeitianzong.png",
+     },
+     {
+         "name": "雾霾香芋",
+         "menuTag": 15,
+         "selected": false,
+         "thumb":"icon_ranfa_wumaixiangyu.png",
+     },
+     {
+         "name": "孔雀蓝",
+         "menuTag": 16,
+         "selected": false,
+         "thumb":"icon_ranfa_kongquelan.png",
+     },
+     {
+         "name": "雾霾蓝灰",
+         "menuTag": 17,
+         "selected": false,
+         "thumb":"icon_ranfa_wumailanhui.png",
+     },
+     {
+         "name": "亚麻灰棕",
+         "menuTag": 18,
+         "selected": false,
+         "thumb":"icon_ranfa_yamahuizong.png",
+     },
+     {
+         "name": "亚麻浅灰",
+         "menuTag": 19,
+         "selected": false,
+         "thumb":"icon_ranfa_yamaqianhui.png",
+     },
+     
+  ]
+  
+}

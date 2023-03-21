@@ -1,0 +1,324 @@
+{
+  "makeups" : [
+    {
+      "downloaded" : false,
+      "name" : "qingse",
+      "menuTag" : 1,
+      "selectedThumb" : "blusher_qingse.png",
+      "thumb" : "b_qingse_icon.png",
+      "type" : "blusher",
+      "normalThumb" : "blusher_qingse.png",
+      "dir" : "青涩"
+    },
+    {
+      "downloaded" : false,
+      "dir" : "日杂",
+      "menuTag" : 2,
+      "selectedThumb" : "blusher_riza.png",
+      "thumb" : "b_riza_icon.png",
+      "type" : "blusher",
+      "name" : "riza",
+      "normalThumb" : "blusher_riza.png"
+    },
+    {
+      "downloaded" : false,
+      "normalThumb" : "blusher_tiancheng.png",
+      "menuTag" : 3,
+      "selectedThumb" : "blusher_tiancheng.png",
+      "thumb" : "b_tiancheng_icon.png",
+      "type" : "blusher",
+      "dir" : "甜橙",
+      "name" : "tiancheng"
+    },
+    {
+      "downloaded" : false,
+      "name" : "youya",
+      "menuTag" : 4,
+      "selectedThumb" : "blusher_youya.png",
+      "thumb" : "b_youya_icon.png",
+      "type" : "blusher",
+      "normalThumb" : "blusher_youya.png",
+      "dir" : "优雅"
+    },
+    {
+      "downloaded" : false,
+      "dir" : "微醺",
+      "menuTag" : 5,
+      "selected" : true,
+      "selectedThumb" : "blusher_weixun.png",
+      "thumb" : "b_weixun_icon.png",
+      "type" : "blusher",
+      "name" : "weixun",
+      "normalThumb" : "blusher_weixun.png"
+    },
+    {
+      "downloaded" : false,
+      "normalThumb" : "blusher_xindong.png",
+      "menuTag" : 6,
+      "selectedThumb" : "blusher_xindong.png",
+      "thumb" : "b_xindong_icon.png",
+      "type" : "blusher",
+      "dir" : "心动",
+      "name" : "xindong"
+    },
+    {
+      "downloaded" : false,
+      "normalThumb" : "eyebrow_biaozhunmei.png",
+      "menuTag" : 1,
+      "selectedThumb" : "eyebrow_biaozhunmei.png",
+      "thumb" : "eb_biaozhunmei_icon.png",
+      "type" : "eyebrow",
+      "dir" : "标准眉",
+      "name" : "biaozhunmei"
+    },
+    {
+      "downloaded" : false,
+      "name" : "jianmei",
+      "menuTag" : 2,
+      "selectedThumb" : "eyebrow_jianmei.png",
+      "thumb" : "eb_jianmei_icon.png",
+      "type" : "eyebrow",
+      "normalThumb" : "eyebrow_jianmei.png",
+      "dir" : "剑眉"
+    },
+    {
+      "downloaded" : false,
+      "dir" : "柳叶眉",
+      "menuTag" : 3,
+      "selectedThumb" : "eyebrow_liuyemei.png",
+      "thumb" : "eb_liuyemei_icon.png",
+      "type" : "eyebrow",
+      "name" : "liuyemei",
+      "normalThumb" : "eyebrow_liuyemei.png"
+    },
+    {
+      "downloaded" : false,
+      "normalThumb" : "eyebrow_pingzhimei.png",
+      "menuTag" : 4,
+      "selectedThumb" : "eyebrow_pingzhimei.png",
+      "thumb" : "eb_pingzhimei_icon.png",
+      "type" : "eyebrow",
+      "dir" : "平直眉",
+      "name" : "pingzhimei"
+    },
+    {
+      "downloaded" : false,
+      "name" : "liuxingmei",
+      "menuTag" : 5,
+      "selectedThumb" : "eyebrow_liuxingmei.png",
+      "thumb" : "eb_liuxingmei_icon.png",
+      "type" : "eyebrow",
+      "normalThumb" : "eyebrow_liuxingmei.png",
+      "dir" : "流星眉"
+    },
+    {
+      "downloaded" : false,
+      "dir" : "欧式眉",
+      "menuTag" : 6,
+      "selectedThumb" : "eyebrow_oushimei.png",
+      "thumb" : "eb_oushimei_icon.png",
+      "type" : "eyebrow",
+      "name" : "oushimei",
+      "normalThumb" : "eyebrow_oushimei.png"
+    },
+    {
+      "thumb" : "el_ziran_icon.png",
+      "downloaded" : false,
+      "name" : "ziran",
+      "type" : "eyelash"
+    },
+    {
+      "thumb" : "el_rouhe_icon.png",
+      "downloaded" : false,
+      "name" : "rouhe",
+      "type" : "eyelash"
+    },
+    {
+      "thumb" : "el_nongmi_icon.png",
+      "downloaded" : false,
+      "name" : "nongmi",
+      "type" : "eyelash"
+    },
+    {
+      "thumb" : "el_meihuo_icon.png",
+      "downloaded" : false,
+      "name" : "meihuo",
+      "type" : "eyelash"
+    },
+    {
+      "thumb" : "el_babi_icon.png",
+      "downloaded" : false,
+      "name" : "babi",
+      "type" : "eyelash"
+    },
+    {
+      "thumb" : "el_wumei_icon.png",
+      "downloaded" : false,
+      "name" : "wumei",
+      "type" : "eyelash"
+    },
+    {
+      "downloaded" : false,
+      "name" : "dadi",
+      "menuTag" : 1,
+      "selectedThumb" : "eyeshadow_dadi.png",
+      "thumb" : "es_dadi_icon.png",
+      "type" : "eyeshadow",
+      "normalThumb" : "eyeshadow_dadi.png",
+      "dir" : "大地"
+    },
+    {
+      "downloaded" : false,
+      "normalThumb" : "eyeshadow_nvtuan.png",
+      "menuTag" : 2,
+      "selectedThumb" : "eyeshadow_nvtuan.png",
+      "thumb" : "es_nvtuan_icon.png",
+      "type" : "eyeshadow",
+      "dir" : "女团",
+      "name" : "nvtuan"
+    },
+    {
+      "downloaded" : false,
+      "dir" : "夏天",
+      "menuTag" : 3,
+      "selectedThumb" : "eyeshadow_summer.png",
+      "thumb" : "es_summer_icon.png",
+      "type" : "eyeshadow",
+      "name" : "xiari",
+      "normalThumb" : "eyeshadow_summer.png"
+    },
+    {
+      "downloaded" : false,
+      "normalThumb" : "eyeshadow_taohua.png",
+      "menuTag" : 4,
+      "selected" : true,
+      "selectedThumb" : "eyeshadow_taohua.png",
+      "thumb" : "es_taohua_icon.png",
+      "type" : "eyeshadow",
+      "dir" : "桃花",
+      "name" : "taohua"
+    },
+    {
+      "downloaded" : false,
+      "name" : "yanxun",
+      "menuTag" : 5,
+      "selectedThumb" : "eyeshadow_yanxunzhuang.png",
+      "thumb" : "es_yanxunzhuang_icon.png",
+      "type" : "eyeshadow",
+      "normalThumb" : "eyeshadow_yanxunzhuang.png",
+      "dir" : "烟熏妆"
+    },
+    {
+      "downloaded" : false,
+      "dir" : "元气",
+      "menuTag" : 6,
+      "selectedThumb" : "eyeshadow_yuanqi.png",
+      "thumb" : "es_yuanqi_icon.png",
+      "type" : "eyeshadow",
+      "name" : "yuanqi",
+      "normalThumb" : "eyeshadow_yuanqi.png"
+    },
+    {
+      "thumb" : "el_suyan_icon.png",
+      "downloaded" : false,
+      "name" : "suyan",
+      "type" : "eyeline"
+    },
+    {
+      "thumb" : "el_rouhua_icon.png",
+      "downloaded" : false,
+      "name" : "rouhua",
+      "type" : "eyeline"
+    },
+    {
+      "thumb" : "el_shensui_icon.png",
+      "downloaded" : false,
+      "name" : "shensui",
+      "type" : "eyeline"
+    },
+    {
+      "thumb" : "el_meihei_icon.png",
+      "downloaded" : false,
+      "name" : "meihei",
+      "type" : "eyeline"
+    },
+    {
+      "thumb" : "el_gexing_icon.png",
+      "downloaded" : false,
+      "name" : "gexing",
+      "type" : "eyeline"
+    },
+    {
+      "thumb" : "el_wugu_icon.png",
+      "downloaded" : false,
+      "name" : "wugu",
+      "type" : "eyeline"
+    },
+    {
+      "thumb" : "el_qingqiao_icon.png",
+      "downloaded" : false,
+      "name" : "qingqiao",
+      "type" : "eyeline"
+    },
+    {
+      "downloaded" : false,
+      "dir" : "苹果红",
+      "menuTag" : 1,
+      "selectedThumb" : "lg_pingguohong_icon.png",
+      "thumb" : "lg_pingguohong_icon.png",
+      "type" : "lipgloss",
+      "name" : "lg_pingguohong_icon",
+      "normalThumb" : "lg_pingguohong_icon.png"
+    },
+    {
+      "downloaded" : false,
+      "normalThumb" : "lg_fanqiehong_icon.png",
+      "menuTag" : 2,
+      "selectedThumb" : "lg_fanqiehong_icon.png",
+      "thumb" : "lg_fanqiehong_icon.png",
+      "type" : "lipgloss",
+      "dir" : "番茄红",
+      "name" : "lg_fanqiehong_icon"
+    },
+    {
+      "downloaded" : false,
+      "name" : "lg_nvtuanse_icon",
+      "menuTag" : 3,
+      "selectedThumb" : "lg_nvtuanse_icon.png",
+      "thumb" : "lg_nvtuanse_icon.png",
+      "type" : "lipgloss",
+      "normalThumb" : "lg_nvtuanse_icon.png",
+      "dir" : "女团色"
+    },
+    {
+      "downloaded" : false,
+      "dir" : "斩男色",
+      "menuTag" : 4,
+      "selectedThumb" : "lg_zhannanse_icon.png",
+      "thumb" : "lg_zhannanse_icon.png",
+      "type" : "lipgloss",
+      "name" : "lg_zhannanse_icon",
+      "normalThumb" : "lg_zhannanse_icon.png"
+    },
+    {
+      "downloaded" : false,
+      "normalThumb" : "lg_rouguimicha_icon.png",
+      "menuTag" : 5,
+      "selectedThumb" : "lg_rouguimicha_icon.png",
+      "thumb" : "lg_rouguimicha_icon.png",
+      "type" : "lipgloss",
+      "dir" : "肉桂蜜茶",
+      "name" : "lg_rouguimicha_icon"
+    },
+    {
+      "downloaded" : false,
+      "name" : "lg_zhenggongse_icon",
+      "menuTag" : 6,
+      "selectedThumb" : "lg_zhenggongse_icon.png",
+      "thumb" : "lg_zhenggongse_icon.png",
+      "type" : "lipgloss",
+      "normalThumb" : "lg_zhenggongse_icon.png",
+      "dir" : "正宫色"
+    }
+  ]
+}

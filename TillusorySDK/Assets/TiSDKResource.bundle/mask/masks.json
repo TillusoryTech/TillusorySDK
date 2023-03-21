@@ -1,0 +1,40 @@
+{
+  "masks" : [
+    {
+      "thumb" : "panda_icon.png",
+      "downloaded" : 0,
+      "name" : "panda",
+      "menuTag" : 1
+    },
+    {
+      "thumb" : "fox_icon.png",
+      "downloaded" : 0,
+      "name" : "fox",
+      "menuTag" : 2
+    },
+    {
+      "thumb" : "pig_icon.png",
+      "downloaded" : 0,
+      "name" : "pig",
+      "menuTag" : 3
+    },
+    {
+      "thumb" : "spirit_icon.png",
+      "downloaded" : 0,
+      "name" : "spirit",
+      "menuTag" : 4
+    },
+    {
+      "thumb" : "white_n95_icon.png",
+      "downloaded" : 0,
+      "name" : "white_n95",
+      "menuTag" : 5
+    },
+    {
+      "thumb" : "medical_mask_icon.png",
+      "downloaded" : 0,
+      "name" : "medical_mask",
+      "menuTag" : 6
+    }
+  ]
+}

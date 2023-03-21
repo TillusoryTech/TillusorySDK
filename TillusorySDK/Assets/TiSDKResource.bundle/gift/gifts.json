@@ -1,0 +1,76 @@
+{
+  "gifts" : [
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 1,
+      "thumb" : "aixin_icon.png",
+      "dir" : "aixin",
+      "name" : "aixin"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 2,
+      "thumb" : "kaixinle_icon.png",
+      "dir" : "kaixinle",
+      "name" : "kaixinle"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 3,
+      "thumb" : "meihua_icon.png",
+      "dir" : "meihua",
+      "name" : "meihua"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 4,
+      "thumb" : "chengbao_icon.png",
+      "dir" : "chengbao",
+      "name" : "chengbao"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 5,
+      "thumb" : "yuanbao_icon.png",
+      "dir" : "yuanbao",
+      "name" : "yuanbao"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 6,
+      "thumb" : "520_icon.png",
+      "dir" : "520",
+      "name" : "520"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 7,
+      "thumb" : "rose_icon.png",
+      "dir" : "rose",
+      "name" : "rose"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 8,
+      "thumb" : "semimi_icon.png",
+      "dir" : "semimi",
+      "name" : "semimi"
+    }
+  ]
+}

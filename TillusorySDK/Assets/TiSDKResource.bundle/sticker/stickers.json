@@ -1,0 +1,337 @@
+{
+  "stickers" : [
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 1,
+      "thumb" : "shibainu_icon.png",
+      "dir" : "shibainu",
+      "name" : "shibainu"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 2,
+      "thumb" : "white_kitty_icon.png",
+      "dir" : "white_kitty",
+      "name" : "white_kitty"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 3,
+      "thumb" : "little_fox_icon.png",
+      "dir" : "little_fox",
+      "name" : "little_fox"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 4,
+      "thumb" : "game_girl_icon.png",
+      "dir" : "game_girl",
+      "name" : "game_girl"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 5,
+      "thumb" : "sheep_ear_icon.png",
+      "dir" : "sheep_ear",
+      "name" : "sheep_ear"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 6,
+      "thumb" : "summer_icon.png",
+      "dir" : "summer",
+      "name" : "summer"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 7,
+      "thumb" : "pick_me_icon.png",
+      "dir" : "pick_me",
+      "name" : "pick_me"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 8,
+      "thumb" : "cheese_mouse_icon.png",
+      "dir" : "cheese_mouse",
+      "name" : "cheese_mouse"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 9,
+      "thumb" : "light_cat_ear_icon.png",
+      "dir" : "light_cat_ear",
+      "name" : "light_cat_ear"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 10,
+      "thumb" : "purple_rabbit_icon.png",
+      "dir" : "purple_rabbit",
+      "name" : "purple_rabbit"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 11,
+      "thumb" : "red_bow_icon.png",
+      "dir" : "red_bow",
+      "name" : "red_bow"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 12,
+      "thumb" : "line_rabbit_icon.png",
+      "dir" : "line_rabbit",
+      "name" : "line_rabbit"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 13,
+      "thumb" : "buy_icon.png",
+      "dir" : "buy",
+      "name" : "buy"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 14,
+      "thumb" : "shopping_icon.png",
+      "dir" : "shopping",
+      "name" : "shopping"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 15,
+      "thumb" : "maoerduo_icon.png",
+      "dir" : "maoer",
+      "name" : "maoer"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 16,
+      "thumb" : "cloud_icon.png",
+      "dir" : "cloud",
+      "name" : "cloud"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 17,
+      "thumb" : "glass_icon.png",
+      "dir" : "glass",
+      "name" : "glass"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 18,
+      "thumb" : "stars_twinkle_icon.png",
+      "dir" : "stars_twinkle",
+      "name" : "stars_twinkle"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 19,
+      "thumb" : "wife_icon.png",
+      "dir" : "wife",
+      "name" : "wife"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 20,
+      "thumb" : "cat_icon.png",
+      "dir" : "cat",
+      "name" : "cat"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 21,
+      "thumb" : "halloweeneve_icon.png",
+      "dir" : "halloweeneve",
+      "name" : "halloweeneve"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 22,
+      "thumb" : "black_cat_icon.png",
+      "dir" : "black_cat",
+      "name" : "black_cat"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 23,
+      "thumb" : "black_cloud_icon.png",
+      "dir" : "black_cloud",
+      "name" : "black_cloud"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 24,
+      "thumb" : "eyemask_icon.png",
+      "dir" : "eyemask",
+      "name" : "eyemask"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 25,
+      "thumb" : "tears_icon.png",
+      "dir" : "tears",
+      "name" : "tears"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 26,
+      "thumb" : "moustache_icon.png",
+      "dir" : "moustache",
+      "name" : "moustache"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 27,
+      "thumb" : "bride_icon.png",
+      "dir" : "bride",
+      "name" : "bride"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 28,
+      "thumb" : "flowerrabbit_icon.png",
+      "dir" : "flowerrabbit",
+      "name" : "flowerrabbit"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 29,
+      "thumb" : "cigar_icon.png",
+      "dir" : "cigar",
+      "name" : "cigar"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 30,
+      "thumb" : "devil_icon.png",
+      "dir" : "devil",
+      "name" : "devil"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 31,
+      "thumb" : "doggy_icon.png",
+      "dir" : "doggy",
+      "name" : "doggy"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 32,
+      "thumb" : "dog_icon.png",
+      "dir" : "dog",
+      "name" : "dog"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 33,
+      "thumb" : "winterhat_icon.png",
+      "dir" : "winterhat",
+      "name" : "winterhat"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 34,
+      "thumb" : "wangguan_icon.png",
+      "dir" : "wangguan",
+      "name" : "wangguan"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 35,
+      "thumb" : "wuyun_icon.png",
+      "dir" : "wuyun",
+      "name" : "wuyun"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 36,
+      "thumb" : "star_icon.png",
+      "dir" : "eyestar",
+      "name" : "eyestar"
+    },
+    {
+      "downloaded" : 0,
+      "category" : "default",
+      "voiced" : false,
+      "menuTag" : 37,
+      "thumb" : "kiss_icon.png",
+      "dir" : "kisses",
+      "name" : "kisses"
+    }
+  ]
+}

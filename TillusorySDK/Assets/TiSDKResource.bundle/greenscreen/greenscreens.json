@@ -1,0 +1,44 @@
+{
+  "greenScreens": [
+    {
+      "name": "gs_aegean_sea.png",
+      "thumb": "gs_aegean_sea_icon.png",
+      "downloaded": true
+    },
+    {
+      "name": "gs_class_room.png",
+      "thumb": "gs_class_room_icon.png",
+      "downloaded": true
+    },
+    {
+      "name": "gs_imperial_palace.png",
+      "thumb": "gs_imperial_palace_icon.png",
+      "downloaded": true
+    },
+    {
+      "name": "gs_snowscape.png",
+      "thumb": "gs_snowscape_icon.png",
+      "downloaded": true
+    },
+    {
+      "name": "gs_starry_sky.png",
+      "thumb": "gs_starry_sky_icon.png",
+      "downloaded": true
+    },
+    {
+      "name": "gs_street.png",
+      "thumb": "gs_street_icon.png",
+      "downloaded": true
+    },
+    {
+      "name": "gs_subway_window.png",
+      "thumb": "gs_subway_window_icon.png",
+      "downloaded": true
+    },
+    {
+      "name": "gs_the_bund.png",
+      "thumb": "gs_the_bund_icon.png",
+      "downloaded": true
+    }
+  ]
+}

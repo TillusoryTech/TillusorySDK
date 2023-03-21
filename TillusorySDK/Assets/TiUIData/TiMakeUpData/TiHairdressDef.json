@@ -1,0 +1,54 @@
+{
+  "menu": [
+     {
+         "name": "原图",
+         "menuTag": 0,
+         "selected": true,
+         "thumb":"icon_ranfa_yuantu.png",
+     },
+     {
+         "name": "神秘紫",
+         "menuTag": 1,
+         "selected": false,
+         "thumb":"icon_ranfa_shenmizi.png",
+     },
+     {
+         "name": "巧克力",
+         "menuTag": 2,
+         "selected": false,
+         "thumb":"icon_ranfa_qiaokeli.png",
+     },
+     {
+         "name": "复古玫瑰",
+         "menuTag": 3,
+         "selected": false,
+         "thumb":"icon_ranfa_fugumeigui.png",
+     },
+     {
+         "name": "深玫瑰",
+         "menuTag": 4,
+         "selected": false,
+         "thumb":"icon_ranfa_shenmeigui.png",
+     },
+     {
+         "name": "雾霾香芋",
+         "menuTag": 5,
+         "selected": false,
+         "thumb":"icon_ranfa_wumaixiangyu.png",
+     },
+     {
+         "name": "孔雀蓝",
+         "menuTag": 6,
+         "selected": false,
+         "thumb":"icon_ranfa_kongquelan.png",
+     },
+     {
+         "name": "雾霾蓝灰",
+         "menuTag": 7,
+         "selected": false,
+         "thumb":"icon_ranfa_wumailanhui.png",
+     },
+     
+  ]
+  
+}

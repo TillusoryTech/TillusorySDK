@@ -1,0 +1,6 @@
+framework module TillusorySDK {
+  umbrella header "TillusorySDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
