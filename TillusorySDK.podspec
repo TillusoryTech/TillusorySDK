@@ -126,6 +126,7 @@ Pod::Spec.new do |s|
   s.dependency 'Masonry'
   s.dependency 'SSZipArchive'
   
+  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
   
   
 
