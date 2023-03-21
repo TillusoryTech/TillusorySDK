@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		1E95657929C94959009F1054 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; name = LICENSE; path = ../../LICENSE; sourceTree = "<group>"; };
 		1E95657A29C94959009F1054 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
-		1E95657B29C94959009F1054 /* TillusorySDK.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = TillusorySDK.podspec; path = ../../TillusorySDK.podspec; sourceTree = "<group>"; };
+		1E95657B29C94959009F1054 /* TillusorySDK.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = TillusorySDK.podspec; path = ../../TillusorySDK.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		25BCA267E3805B2041CE1707 /* Pods_TiSDKDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TiSDKDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		75574078230F7DFC00F7591C /* TiDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TiDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7557407B230F7DFC00F7591C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };

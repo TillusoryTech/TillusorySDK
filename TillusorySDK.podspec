@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 #
   s.name             = 'TillusorySDK'
   s.version          = '50001'
-  s.summary          = 'A short description of TillusorySDK. '
+  s.summary          = 'TillusorySDK初始版本'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -71,7 +71,7 @@ Pod::Spec.new do |s|
   # spec.platform     = :ios, "5.0"
 
   #  When using multiple platforms
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '11.0'
   # spec.osx.deployment_target = "10.7"
   # spec.watchos.deployment_target = "2.0"
   # spec.tvos.deployment_target = "9.0"
